@@ -21,12 +21,12 @@ The analysis uses a PostgreSQL database containing a single table 'schools' with
 
 ## Query Examples
 
-Best Schools For Math
+### Best Schools For Math
 ![NYC Data Snip1](https://github.com/user-attachments/assets/8ef861a3-f629-4142-a6ed-2441df45d945)
 
 ![NYC Data Snip2](https://github.com/user-attachments/assets/b4d4345d-7688-4a27-a335-6b1d2b590cdc)
 
-Top 10 Performing Schools on SAT
+### Top 10 Performing Schools on SAT
 
 
 ![NYC Data Snip3](https://github.com/user-attachments/assets/75bca740-69d9-430b-ad50-3f7ab61e5fdb)
