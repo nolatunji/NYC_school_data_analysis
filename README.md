@@ -5,7 +5,7 @@
 * Jupter Notebook
 
 ## Project Description
-In this project, I worked with a SQL database containing test performance from New York City's public school system.
+In this project, I worked with a SQL database containing SAT performance from New York City's public school system.
 I analyzed how performance varies by borough, identified how many schools fail to report information, and found the top ten performing schools across the city.
 
 ## Data Source
