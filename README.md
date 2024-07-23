@@ -1,4 +1,4 @@
-# NYC_school_data_analysis
+# New York City Public Schools SAT Performance Analysis 
 
 ## Tools
 * SQL
