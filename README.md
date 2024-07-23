@@ -21,14 +21,19 @@ The analysis uses a PostgreSQL database containing a single table 'schools' with
 
 ## Query Examples
 
-
-
-## Key Findings
-
+Best Schools For Math
 ![NYC Data Snip1](https://github.com/user-attachments/assets/8ef861a3-f629-4142-a6ed-2441df45d945)
 
 ![NYC Data Snip2](https://github.com/user-attachments/assets/b4d4345d-7688-4a27-a335-6b1d2b590cdc)
 
+Top 10 Performing Schools on SAT
+
+
+![NYC Data Snip3](https://github.com/user-attachments/assets/75bca740-69d9-430b-ad50-3f7ab61e5fdb)
+
+![NYC Data Snip4](https://github.com/user-attachments/assets/ca73d2ab-f895-4077-b2e0-8e70eded1522)
+
+## Key Findings
 - 20 out of 375 schools have missing data for the percentage of students tested
 - Through the analysis it was determined that Staten Island has the schools with the highest average test scores followed by Queens and Manhattan.
 - Only 10 public schools in NYC have an average math score of at least 640.
