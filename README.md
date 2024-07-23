@@ -19,7 +19,16 @@ The analysis uses a PostgreSQL database containing a single table 'schools' with
 - average_writing
 - percent_tested
 
+## Query Examples
+
+
+
 ## Key Findings
+
+![NYC Data Snip1](https://github.com/user-attachments/assets/8ef861a3-f629-4142-a6ed-2441df45d945)
+
+![NYC Data Snip2](https://github.com/user-attachments/assets/b4d4345d-7688-4a27-a335-6b1d2b590cdc)
+
 - 20 out of 375 schools have missing data for the percentage of students tested
 - Through the analysis it was determined that Staten Island has the schools with the highest average test scores followed by Queens and Manhattan.
 - Only 10 public schools in NYC have an average math score of at least 640.
